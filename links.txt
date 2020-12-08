@@ -2,7 +2,7 @@ Prog3:
 
 VL01 : https://www.youtube.com/watch?v=Tikg7A7NWdk
 
-VL02 : https://www.youtube.com/watch?v=T980v2UG8NU
+VL02 : https://www.youtube.com/watch?v=T980v2UGu8NU
 
 VL03 : -------------------------------------------
 
@@ -13,7 +13,7 @@ Angewandte Mathematik:
 
 ÜB04 : https://youtu.be/hl-jfiBO1f4
 
-
+ÜB05 : https://www.youtube.com/watch?v=S3lu3HmDZ1w
 ATFS:
 
 VL05 : https://youtu.be/ZPbkeOHW214
